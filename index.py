@@ -12,7 +12,7 @@ def set_countdown():
         print(temp, end='')
     print("\nCountdown ended...\n")
 
-print("===== Welcome to Countdown Timer =====")
+print("===== Welcome to Codewithrich Countdown Timer =====")
 while 1:
     choice = input("Do you want to set a countdown (y/n): ")
     if 'y' in choice.lower():
